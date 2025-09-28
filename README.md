@@ -20,7 +20,7 @@
 ├── README.md                         # Documentation (this file)
 ├── simulations.sh                    # Main script to run simulations
 └── src                               # Source code
-    ├── dynamique_elements_transposables.py
+    ├── main.py
     └── elements_transposables
         ├── arguments.py
         ├── file_csv.py
