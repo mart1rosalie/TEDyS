@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**TEDyS** is a Python package to simulate the evolution of **Transposable Elements (TEs)** in a population of genomes under the assumption of **asexual reproduction**. The model implements a system of differential equations solved with a stochastic Gillespie algorithm. Running simulations produces time-resolved distributions of TEs across genomes, which can be analyzed to study departures from classical Poisson expectations and long-term persistence driven by over-dispersed genomic distributions.
+**TEDyS** is a Python software to simulate the evolution of **Transposable Elements (TEs)** in a population of genomes under the assumption of **asexual reproduction**. The model implements a system of differential equations solved with a stochastic Gillespie algorithm. Running simulations produces time-resolved distributions of TEs across genomes, which can be analyzed to study departures from classical Poisson expectations and long-term persistence driven by over-dispersed genomic distributions.
 
 
 ---
