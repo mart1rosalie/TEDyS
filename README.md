@@ -130,13 +130,7 @@ No formal test suite is included in this release. To verify correct behavior, ru
 
 If you use **TEDyS** in your research, please cite:
 
-
----
-
-## Contributing
-
-Contributions are welcome. Please open issues or pull requests on the repository. For major changes, please first open an issue to discuss the proposed changes.
-
+R scripts used to analyse data of TEDyS are available in Zenodo https://doi.org/10.5281/zenodo.17218660
 
 ---
 
