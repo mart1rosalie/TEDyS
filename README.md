@@ -142,7 +142,7 @@ Contributions are welcome. Please open issues or pull requests on the repository
 
 ## Contact
 
-For questions, contact: Martin ROSALIE — [martin.rosalie@univ-perp.fr]
+For questions, contact: Martin ROSALIE — martin.rosalie@univ-perp.fr
 
 
 ---
